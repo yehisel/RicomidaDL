@@ -1,0 +1,22 @@
+body {
+    font-family: 'Cabin' , sans-serif;
+}
+
+.lobster {
+    font-family: 'Lobster', cursive;
+    font-size: 40px;
+    padding-right: 230px;
+}
+
+.menu {
+    padding-right:230px;
+}
+
+.font {
+    font-size: 15pt;
+    font-family: sans-serif;
+}
+
+.familyfont{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
